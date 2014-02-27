@@ -1,0 +1,9 @@
+<snippet>
+   <content><![CDATA[
+@include after($1) {
+   $2
+}$0
+]]></content>
+   <tabTrigger>after</tabTrigger>
+   <scope>source.sass</scope>
+</snippet>

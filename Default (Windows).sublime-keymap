@@ -1,16 +1,25 @@
 [
-	{
-        "keys": [
-            "ctrl+d"
-        ], 
-        "args": {
-            "action": "match_pair_outward"
-        }, 
-        "command": "run_emmet_action", 
-        "context": [
-            {
-                "key": "emmet_action_enabled.match_pair_outward"
-            }
-        ]
-    }
+   {
+      "keys": ["ctrl+d"], 
+      "args": {
+         "action": "match_pair_outward"
+      }, 
+      "command": "run_emmet_action", 
+      "context": [
+         {
+            "key": "emmet_action_enabled.match_pair_outward"
+         }
+      ]
+   },
+   {
+      "keys": ["ctrl+alt+l"],
+      "command": "toggle_setting",
+      "args": {
+         "setting": "line_numbers"
+      }
+   },
+   {
+      "keys": ["ctrl+shift+r"],
+      "command": "reindent"
+   }
 ]
