@@ -1,7 +1,0 @@
-<snippet>
-   <content><![CDATA[
-@include blank-lines(${1:2}, ${2:after});$0
-]]></content>
-   <tabTrigger>bl</tabTrigger>
-   <scope>source.sass</scope>
-</snippet>
