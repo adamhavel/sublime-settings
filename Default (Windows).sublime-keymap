@@ -1,13 +1,15 @@
 [
    {
-      "keys": ["ctrl+d"], 
+      "keys": [
+         "ctrl+d"
+      ],
       "args": {
-         "action": "match_pair_outward"
-      }, 
-      "command": "run_emmet_action", 
+         "action": "balance_outward"
+      },
+      "command": "run_emmet_action",
       "context": [
          {
-            "key": "emmet_action_enabled.match_pair_outward"
+             "key": "emmet_action_enabled.balance_outward"
          }
       ]
    },
@@ -17,9 +19,5 @@
       "args": {
          "setting": "line_numbers"
       }
-   },
-   {
-      "keys": ["ctrl+shift+r"],
-      "command": "reindent"
    }
 ]

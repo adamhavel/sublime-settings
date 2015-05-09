@@ -5,5 +5,5 @@
 }$0
 ]]></content>
    <tabTrigger>mod</tabTrigger>
-   <scope>source.sass</scope>
+   <scope>source.scss, source.sass</scope>
 </snippet>

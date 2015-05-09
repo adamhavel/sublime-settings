@@ -3,5 +3,5 @@
 @extend %${1:class};$0
 ]]></content>
    <tabTrigger>e</tabTrigger>
-   <scope>source.sass</scope>
+   <scope>source.sass, source.scss</scope>
 </snippet>
