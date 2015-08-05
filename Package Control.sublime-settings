@@ -6,10 +6,13 @@
 	[
 		"DocBlockr",
 		"Emmet",
+		"JavaScriptNext - ES6 Syntax",
 		"JSCS-Formatter",
 		"Package Control",
 		"Sass",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-jscs",
 		"Theme - Spacegray"
 	]

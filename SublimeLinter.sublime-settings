@@ -11,6 +11,16 @@
 		"lint_mode": "background",
 		"linters":
 		{
+			"eslint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"jscs":
 			{
 				"@disable": false,
@@ -20,6 +30,18 @@
 				"excludes":
 				[
 				]
+			},
+			"scss":
+			{
+				"@disable": true,
+				"args":
+				[
+				],
+				"exclude-linter": "",
+				"excludes":
+				[
+				],
+				"include-linter": ""
 			}
 		},
 		"mark_style": "squiggly underline",
