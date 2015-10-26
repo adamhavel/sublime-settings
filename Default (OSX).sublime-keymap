@@ -1,0 +1,23 @@
+[
+   {
+      "keys": [
+         "super+d"
+      ],
+      "args": {
+         "action": "balance_outward"
+      },
+      "command": "run_emmet_action",
+      "context": [
+         {
+             "key": "emmet_action_enabled.balance_outward"
+         }
+      ]
+   },
+   {
+      "keys": ["super+alt+l"],
+      "command": "toggle_setting",
+      "args": {
+         "setting": "line_numbers"
+      }
+   }
+]

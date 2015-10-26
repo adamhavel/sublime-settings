@@ -1,9 +1,9 @@
 <snippet>
-   <content><![CDATA[
+    <content><![CDATA[
 @include media('<${1:layout}') {
-   $2
+    $2
 }$0
 ]]></content>
-   <tabTrigger>mq</tabTrigger>
-   <scope>source.scss, source.sass</scope>
+    <tabTrigger>mq</tabTrigger>
+    <scope>source.scss, source.sass</scope>
 </snippet>
