@@ -7,9 +7,11 @@
 	[
 		"DocBlockr",
 		"Emmet",
+		"GitGutter",
 		"JavaScriptNext - ES6 Syntax",
 		"JSCS-Formatter",
 		"Package Control",
+		"Rsync SSH",
 		"Sass",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
