@@ -1,23 +1,24 @@
 [
-   {
-      "keys": [
-         "ctrl+d"
-      ],
-      "args": {
-         "action": "balance_outward"
-      },
-      "command": "run_emmet_action",
-      "context": [
-         {
-             "key": "emmet_action_enabled.balance_outward"
-         }
-      ]
-   },
-   {
-      "keys": ["ctrl+alt+l"],
-      "command": "toggle_setting",
-      "args": {
-         "setting": "line_numbers"
-      }
-   }
+    { "keys": ["ctrl+e"], "command": "find_under_expand" },
+    {
+        "keys": [
+            "ctrl+d"
+        ],
+        "args": {
+            "action": "balance_outward"
+        },
+        "command": "run_emmet_action",
+        "context": [
+            {
+                "key": "emmet_action_enabled.balance_outward"
+            }
+        ]
+    },
+    {
+        "keys": ["ctrl+alt+l"],
+        "command": "toggle_setting",
+        "args": {
+            "setting": "line_numbers"
+        }
+    }
 ]
