@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+@include h-spacing(${1:1em});
+]]></content>
+    <tabTrigger>hs</tabTrigger>
+    <scope>source.sass, source.scss</scope>
+</snippet>
