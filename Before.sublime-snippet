@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+&:before {
+    ${1:content: '';}$2
+}
+]]></content>
+    <tabTrigger>bfr</tabTrigger>
+    <scope>source.sass, source.scss</scope>
+</snippet>

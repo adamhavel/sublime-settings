@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+color(${1:highlight})
+]]></content>
+    <tabTrigger>c</tabTrigger>
+    <scope>source.sass, source.scss</scope>
+</snippet>
