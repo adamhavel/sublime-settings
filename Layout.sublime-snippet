@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+<div class="o-layout">
+
+    <div class="o-layout__item">
+
+        $1
+
+    </div>
+
+    <div class="o-layout__item">
+
+        $2
+
+    </div>
+
+</div>
+]]></content>
+    <tabTrigger>layout</tabTrigger>
+    <scope>text.html</scope>
+</snippet>

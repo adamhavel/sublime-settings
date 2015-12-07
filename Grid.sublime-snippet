@@ -1,0 +1,27 @@
+<snippet>
+    <content><![CDATA[
+<div class="o-grid">
+
+    ${1:<div class="o-grid__item">
+
+        $2
+
+    </div>}
+
+    ${3:<div class="o-grid__item">
+
+        $4
+
+    </div>}
+
+    ${5:<div class="o-grid__item">
+
+        $6
+
+    </div>}
+
+</div>
+]]></content>
+    <tabTrigger>grid</tabTrigger>
+    <scope>text.html</scope>
+</snippet>

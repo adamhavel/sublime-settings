@@ -1,0 +1,13 @@
+{
+    "preferences": {
+        "bem.elementSeparator": "__",
+        "bem.modifierSeparator": "--",
+        "bem.shortElementPrefix": "_",
+        "lorem.omitCommonPart": true
+    },
+    "snippets": {
+        "html": {
+            "filters": "html, bem"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+<snippet>
+    <content><![CDATA[
+/* ==========================================================================
+   ${1:Component}
+   ========================================================================== */
+
+.c-${2:component} {
+
+}
+
+    ${3:.c-${2:component}__${4:element} {
+
+    \}
+
+    }${5:.c-${2:component}__${6:element} {
+
+    \}
+
+    }${7:.c-${2:component}__${8:element} {
+
+    \}
+
+    }${9:.c-${2:component}__${10:element} {
+
+    \}}
+]]></content>
+    <tabTrigger>skeleton</tabTrigger>
+    <scope>source.scss, source.sass</scope>
+</snippet>
