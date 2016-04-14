@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-.no-flexbox & {
+@mixin no-flexbox {
     $1
 }
 ]]></content>

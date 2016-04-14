@@ -12,7 +12,6 @@
 		"Emmet",
 		"GitGutter",
 		"JavaScriptNext - ES6 Syntax",
-		"JSCS-Formatter",
 		"LESS",
 		"Package Control",
 		"Rsync SSH",
@@ -20,7 +19,6 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-jscs",
 		"Theme - Spacegray"
 	]
 }
