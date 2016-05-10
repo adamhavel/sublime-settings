@@ -3,5 +3,5 @@
 <svg class="e-icon"${2: role="image" aria-label="$3"}${4: aria-hidden="true"}><use xlink:href="#$1"></use></svg>$0
 ]]></content>
     <tabTrigger>icon</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.html, source.latte</scope>
 </snippet>

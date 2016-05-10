@@ -25,5 +25,5 @@
     \}}
 ]]></content>
     <tabTrigger>skeleton</tabTrigger>
-    <scope>source.scss, source.sass</scope>
+    <scope>source.scss, source.sass, source.less</scope>
 </snippet>

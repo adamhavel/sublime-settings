@@ -5,5 +5,5 @@
 }
 ]]></content>
     <tabTrigger>bfr</tabTrigger>
-    <scope>source.sass, source.scss</scope>
+    <scope>source.sass, source.scss, source.less</scope>
 </snippet>

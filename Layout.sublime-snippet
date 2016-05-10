@@ -17,5 +17,5 @@
 </div>
 ]]></content>
     <tabTrigger>layout</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.html, source.latte</scope>
 </snippet>

@@ -5,14 +5,13 @@
 	],
 	"installed_packages":
 	[
-		"Alignment",
 		"Better CoffeeScript",
-		"CSScomb",
 		"DocBlockr",
 		"Emmet",
 		"GitGutter",
 		"JavaScriptNext - ES6 Syntax",
 		"LESS",
+		"Nette + Latte + Neon",
 		"Package Control",
 		"Rsync SSH",
 		"Sass",

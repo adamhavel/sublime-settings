@@ -2,7 +2,7 @@
 	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
-	"expand_tabs_on_save": true,
+	"expand_tabs_on_save": false,
 	"font_face": "Hack",
 	"font_options":
 	[
