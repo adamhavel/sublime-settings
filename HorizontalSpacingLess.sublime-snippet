@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+.h-spacing(${1:1em});
+]]></content>
+    <tabTrigger>hs</tabTrigger>
+    <scope>source.less</scope>
+</snippet>

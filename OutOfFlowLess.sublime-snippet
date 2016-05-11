@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+.out-of-flow;
+]]></content>
+    <tabTrigger>oof</tabTrigger>
+    <scope>source.less</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+(@lineHeight * ${1:1}rem)
+]]></content>
+    <tabTrigger>l</tabTrigger>
+    <scope>source.less</scope>
+</snippet>
