@@ -1,14 +1,39 @@
 {
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.woff"
+	],
 	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"expand_tabs_on_save": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		"node_modules",
+		"vendor",
+		"temp"
+	],
 	"font_face": "Hack",
 	"font_options":
 	[
 		"directwrite"
 	],
-	"font_size": 14,
+	"font_size": 16,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -17,7 +42,7 @@
 	"overlay_scroll_bars": "enabled",
 	"show_encoding": true,
 	"tab_size": 4,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "Spacegray Oceanic.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true

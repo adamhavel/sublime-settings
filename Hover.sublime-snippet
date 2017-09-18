@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+&:hover,
+&:focus {
+    $1
+}
+]]></content>
+    <tabTrigger>hov</tabTrigger>
+    <scope>source.sass, source.scss, source.less</scope>
+</snippet>

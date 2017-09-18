@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="c-form-cell">
+    <label for="${1:c-form__name}" class="c-form-cell__label">${2:Name}</label>
+    <input id="${1:c-form__name}" name="${3:name}" type="${4:text}" class="c-form-cell__input e-input"${5: required}>
+</div>
+]]></content>
+    <tabTrigger>fc</tabTrigger>
+    <scope>text.html</scope>
+</snippet>

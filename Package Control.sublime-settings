@@ -6,11 +6,15 @@
 	"installed_packages":
 	[
 		"Better CoffeeScript",
+		"Diffy",
 		"DocBlockr",
+		"Ecmascript Syntax",
 		"Emmet",
 		"GitGutter",
 		"JavaScriptNext - ES6 Syntax",
+		"Jinja2",
 		"LESS",
+		"Marko",
 		"Nette + Latte + Neon",
 		"Package Control",
 		"Rsync SSH",
@@ -18,6 +22,7 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-stylelint",
 		"Theme - Spacegray"
 	]
 }

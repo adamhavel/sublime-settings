@@ -1,26 +1,22 @@
 <snippet>
     <content><![CDATA[
-/* ==========================================================================
-   ${1:Component}
-   ========================================================================== */
-
-.c-${2:component} {
+.c-${1:component} {
 
 }
 
-    ${3:.c-${2:component}__${4:element} {
+    ${2:.c-${1:component}__${3:element} {
 
     \}
 
-    }${5:.c-${2:component}__${6:element} {
+    }${4:.c-${1:component}__${5:element} {
 
     \}
 
-    }${7:.c-${2:component}__${8:element} {
+    }${6:.c-${1:component}__${7:element} {
 
     \}
 
-    }${9:.c-${2:component}__${10:element} {
+    }${8:.c-${1:component}__${9:element} {
 
     \}}
 ]]></content>
