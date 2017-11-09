@@ -1,6 +1,5 @@
 [
     { "keys": ["super+e"], "command": "find_under_expand" },
-    { "keys": ["super+shift+c"], "command": "css_comb" },
     {
         "keys": [
             "super+d"
@@ -21,5 +20,15 @@
         "args": {
             "setting": "line_numbers"
         }
-    }
+    },
+    {
+        "keys": ["alt+up"],
+        "command": "expand_region"
+    },
+    {
+        "keys": ["alt+down"],
+        "command": "expand_region",
+        "args": {"undo": true},
+        "context": [{ "key": "expand_region_soft_undo" }]
+    },
 ]

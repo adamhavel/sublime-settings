@@ -5,11 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"AceJump",
 		"Better CoffeeScript",
 		"Diffy",
 		"DocBlockr",
 		"Ecmascript Syntax",
 		"Emmet",
+		"ExpandRegion",
 		"GitGutter",
 		"JavaScriptNext - ES6 Syntax",
 		"Jinja2",
