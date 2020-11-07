@@ -16,7 +16,7 @@
 		"*.zip",
 		"*.woff"
 	],
-	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"expand_tabs_on_save": false,
@@ -26,7 +26,8 @@
 		".git",
 		"node_modules",
 		"vendor",
-		"temp"
+		".cache",
+		".venv"
 	],
 	"font_face": "Hack",
 	"font_options":
@@ -42,7 +43,7 @@
 	"overlay_scroll_bars": "enabled",
 	"show_encoding": true,
 	"tab_size": 4,
-	"theme": "Spacegray Oceanic.sublime-theme",
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true

@@ -1,13 +1,18 @@
 {
-    "preferences": {
-        "bem.elementSeparator": "__",
-        "bem.modifierSeparator": "--",
-        "bem.shortElementPrefix": "_",
-        "lorem.omitCommonPart": true
-    },
-    "snippets": {
-        "html": {
-            "filters": "html, bem"
-        }
-    }
+	"preferences":
+	{
+		"bem.elementSeparator": "__",
+		"bem.modifierSeparator": "--",
+		"bem.shortElementPrefix": "_",
+		"lorem.omitCommonPart": true
+	},
+	"snippets":
+	{
+		"html":
+		{
+			"filters": "html, bem"
+		}
+	},
+	"telemetry": false,
+	"uid": "caf69e6c-b8be-4ce8-95e1-fee27b8e49e3"
 }

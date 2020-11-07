@@ -31,4 +31,8 @@
         "args": {"undo": true},
         "context": [{ "key": "expand_region_soft_undo" }]
     },
+    {
+        "keys": ["super+;"],
+        "command": "ace_jump_word"
+    }
 ]

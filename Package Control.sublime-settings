@@ -6,25 +6,28 @@
 	"installed_packages":
 	[
 		"AceJump",
+		"Babel",
 		"Better CoffeeScript",
-		"Diffy",
 		"DocBlockr",
 		"Ecmascript Syntax",
 		"Emmet",
 		"ExpandRegion",
-		"GitGutter",
 		"JavaScriptNext - ES6 Syntax",
 		"Jinja2",
 		"LESS",
+		"Markdown Extended",
 		"Marko",
 		"Nette + Latte + Neon",
+		"nginx",
+		"Nunjucks Syntax",
 		"Package Control",
 		"Rsync SSH",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-contrib-stylelint",
-		"Theme - Spacegray"
+		"SublimeLinter-eslint",
+		"SublimeLinter-stylelint",
+		"Theme - Spacegray",
+		"TypeScript Syntax"
 	]
 }
